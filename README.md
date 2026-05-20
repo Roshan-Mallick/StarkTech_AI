@@ -1,7 +1,7 @@
 # StarkTech AI — InternFinder Platform
 
 🚀 **Live Prototype:**  
-👉 https://starktechai-psid-25034.netlify.app/
+👉 https://starktechai.vercel.app/
 
 ---
 
